@@ -1,0 +1,190 @@
+html{
+scroll-behavior: smooth;
+}
+body{
+
+}
+.energi-surya{
+    background-color:white;
+    display: flex;
+    justify-content: center;
+}
+.img-surya{
+width: 50%; 
+height: 50%;
+}
+.judul{
+    text-align: center;
+}
+.p1{
+    text-align: center;
+}
+.h2{
+    text-align: center;
+}
+.h2-surya{
+text-align: center;
+}
+.p1{
+    text-align: center;
+    font-style: italic;
+}
+.p2{
+    text-align: center;
+}
+.h3{
+    text-align: center;
+}
+.h4{
+    text-align: center;
+}
+.h5{
+    text-align: center;
+}
+.h6{
+    text-align: center;
+}
+.h7{
+    text-align: center;
+}
+.h8{
+    text-align: center;
+}
+.h9{
+    text-align: center;
+}
+.energi-surya1{
+    justify-content: center;
+    background-color: #fff;
+    display: flex;
+}
+.img-surya1{
+    width: 50%;
+    height: 50%;
+}
+.h10{
+    text-align: center;
+}
+.h11{
+    text-align: center;
+}
+.energi-surya2{
+    background-color: #fff;
+    justify-content: center;
+    display: flex;
+}
+.img-surya2{
+    width: 50%;
+    height: 50%;
+} 
+.h12{
+    text-align: center;
+}
+.h13{
+    text-align: center;
+}
+.rumus-container{
+    display: grid;
+    gap: 50px;
+    margin-top: 10px;
+    grid-template-columns: repeat(3, 1fr);
+    text-align: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    height: 50%;
+}
+.rumus-box{
+    border: 5px;
+    padding 20px;
+    border-radius: 10px;
+    background-color: burlywood;
+    box-sizing: border-box;
+}
+.rumus-box{
+    border-radius: 10px;
+    padding: 20px;
+    box-sizing: border-box;
+    background-color: burlywood;
+    border-radius:10px ;
+}
+.sub-judul{
+    text-align: center;
+}
+.intro{
+    text-align: center;
+    max-width: 800px;
+    margin: 20px auto;
+}
+.Daftar-isi{
+    text-align: center;
+    list-style: none;
+    padding: 0;
+}
+.judul-1{
+    text-align: center;
+}
+.contact-tittle{
+    text-align: center;
+    margin-top: 50px;
+}
+.contact{
+    text-align: center;
+    margin top: 40px;
+    display: block;
+    text-align: center;
+    flex-direction: column;
+}
+.btn{
+    background-color: gray;
+    color: black;
+    padding: 12px 20px;
+    text-decoration: none;
+    border-radius: 6px;
+    font-weight: bold;
+    display: block;
+    margin: 10px;
+}
+.btn:hover{
+    opacity: 0,8;
+}
+.section{
+    margin: 40 px;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.6;
+}
+.body{
+    background: #fafafa;
+}
+.rumus-box{
+    transition: 0.3s;
+}
+.rumus-box :hover{
+    transform: scale(1.03);
+}
+.subject{
+    text-align: center;
+    margin: 50px auto;
+    width: 100%;
+    display: block;
+    font-style: italic;
+}
+.subject h2{
+    margin-bottom: 15px;
+}
+.section-1{
+    margin-top: 50px;
+    padding-top: 20px;
+    border-top: 1px solid white;
+}
+footer {
+  text-align: center;
+  padding: 20px;
+  background: white;
+  margin-top: 40px;
+}
+.logo{
+    width: 60px;
+    height: auto;
+}
